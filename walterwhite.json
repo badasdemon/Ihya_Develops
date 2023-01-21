@@ -1,0 +1,714 @@
+{
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"open_ads_alien": "",
+			"switch_open_ads": "1",
+			"switch_banner_natives_ads": "1",
+			"interval_intertitial": 2,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"More": [
+		{
+			"id": 1,
+			"title": "",
+			"image": "",
+			"link": ""
+		}
+	],
+	"Skin": [
+		{
+			"id": 1,
+			"name_skin": "skin 1",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack1.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack1.png"
+		},
+		{
+			"id": 2,
+			"name_skin": "skin 2",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack2.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack2.png"
+		},
+		{
+			"id": 3,
+			"name_skin": "skin 3",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack3.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack3.png"
+		},
+		{
+			"id": 4,
+			"name_skin": "skin 4",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack4.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack4.png"
+		},
+		{
+			"id": 5,
+			"name_skin": "skin 5",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack5.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack5.png"
+		},
+		{
+			"id": 6,
+			"name_skin": "skin 6",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack6.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack6.png"
+		},
+		{
+			"id": 7,
+			"name_skin": "skin 7",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack7.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack7.png"
+		},
+		{
+			"id": 8,
+			"name_skin": "skin 8",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack8.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack8.png"
+		},
+		{
+			"id": 9,
+			"name_skin": "skin 9",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack9.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack9.png"
+		},
+		{
+			"id": 10,
+			"name_skin": "skin 10",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack10.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack10.png"
+		},
+		{
+			"id": 11,
+			"name_skin": "skin 11",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack11.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack11.png"
+		},
+		{
+			"id": 12,
+			"name_skin": "skin 12",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack12.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack12.png"
+		},
+		{
+			"id": 13,
+			"name_skin": "skin 13",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack13.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack13.png"
+		},
+		{
+			"id": 14,
+			"name_skin": "skin 14",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack14.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack14.png"
+		},
+		{
+			"id": 15,
+			"name_skin": "skin 15",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack15.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack15.png"
+		},
+		{
+			"id": 16,
+			"name_skin": "skin 16",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack16.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack16.png"
+		},
+		{
+			"id": 17,
+			"name_skin": "skin 17",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack17.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack17.png"
+		},
+		{
+			"id": 18,
+			"name_skin": "skin 18",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack18.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack18.png"
+		},
+		{
+			"id": 19,
+			"name_skin": "skin 19",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack19.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack19.png"
+		},
+		{
+			"id": 20,
+			"name_skin": "skin 20",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack20.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack20.png"
+		},
+		{
+			"id": 21,
+			"name_skin": "skin 21",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack21.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack21.png"
+		},
+		{
+			"id": 22,
+			"name_skin": "skin 22",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack22.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack22.png"
+		},
+		{
+			"id": 23,
+			"name_skin": "skin 23",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack23.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack23.png"
+		},
+		{
+			"id": 24,
+			"name_skin": "skin 24",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack24.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack24.png"
+		},
+		{
+			"id": 25,
+			"name_skin": "skin 25",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack25.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack25.png"
+		},
+		{
+			"id": 26,
+			"name_skin": "skin 26",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack26.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack26.png"
+		},
+		{
+			"id": 27,
+			"name_skin": "skin 27",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack27.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack27.png"
+		},
+		{
+			"id": 28,
+			"name_skin": "skin 28",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack28.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack28.png"
+		},
+		{
+			"id": 29,
+			"name_skin": "skin 29",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack29.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack29.png"
+		},
+		{
+			"id": 30,
+			"name_skin": "skin 30",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack30.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack30.png"
+		},
+		{
+			"id": 31,
+			"name_skin": "skin 31",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack31.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack31.png"
+		},
+		{
+			"id": 32,
+			"name_skin": "skin 32",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack32.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack32.png"
+		},
+		{
+			"id": 33,
+			"name_skin": "skin 33",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack33.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack33.png"
+		},
+		{
+			"id": 34,
+			"name_skin": "skin 34",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack34.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack34.png"
+		},
+		{
+			"id": 35,
+			"name_skin": "skin 35",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack35.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack35.png"
+		},
+		{
+			"id": 36,
+			"name_skin": "skin 36",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack36.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack36.png"
+		},
+		{
+			"id": 37,
+			"name_skin": "skin 37",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack37.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack37.png"
+		},
+		{
+			"id": 38,
+			"name_skin": "skin 38",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack38.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack38.png"
+		},
+		{
+			"id": 39,
+			"name_skin": "skin 39",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack39.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack39.png"
+		},
+		{
+			"id": 40,
+			"name_skin": "skin 40",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack40.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack40.png"
+		},
+		{
+			"id": 41,
+			"name_skin": "skin 41",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack41.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack41.png"
+		},
+		{
+			"id": 42,
+			"name_skin": "skin 42",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack42.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack42.png"
+		},
+		{
+			"id": 43,
+			"name_skin": "skin 43",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack43.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack43.png"
+		},
+		{
+			"id": 44,
+			"name_skin": "skin 44",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack44.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack44.png"
+		},
+		{
+			"id": 45,
+			"name_skin": "skin 45",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack45.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack45.png"
+		},
+		{
+			"id": 46,
+			"name_skin": "skin 46",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack46.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack46.png"
+		},
+		{
+			"id": 47,
+			"name_skin": "skin 47",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack47.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack47.png"
+		},
+		{
+			"id": 48,
+			"name_skin": "skin 48",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack48.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack48.png"
+		},
+		{
+			"id": 49,
+			"name_skin": "skin 49",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack49.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack49.png"
+		},
+		{
+			"id": 50,
+			"name_skin": "skin 50",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack50.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack50.png"
+		},
+		{
+			"id": 51,
+			"name_skin": "skin 51",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack51.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack51.png"
+		},
+		{
+			"id": 52,
+			"name_skin": "skin 52",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack52.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack52.png"
+		},
+		{
+			"id": 53,
+			"name_skin": "skin 53",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack53.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack53.png"
+		},
+		{
+			"id": 54,
+			"name_skin": "skin 54",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack54.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack54.png"
+		},
+		{
+			"id": 55,
+			"name_skin": "skin 55",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack55.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack55.png"
+		},
+		{
+			"id": 56,
+			"name_skin": "skin 56",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack56.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack56.png"
+		},
+		{
+			"id": 57,
+			"name_skin": "skin 57",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack57.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack57.png"
+		},
+		{
+			"id": 58,
+			"name_skin": "skin 58",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack58.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack58.png"
+		},
+		{
+			"id": 59,
+			"name_skin": "skin 59",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack59.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack59.png"
+		},
+		{
+			"id": 60,
+			"name_skin": "skin 60",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack60.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack60.png"
+		},
+		{
+			"id": 61,
+			"name_skin": "skin 61",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack61.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack61.png"
+		},
+		{
+			"id": 62,
+			"name_skin": "skin 62",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack62.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack62.png"
+		},
+		{
+			"id": 63,
+			"name_skin": "skin 63",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack63.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack63.png"
+		},
+		{
+			"id": 64,
+			"name_skin": "skin 64",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack64.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack64.png"
+		},
+		{
+			"id": 65,
+			"name_skin": "skin 65",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack65.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack65.png"
+		},
+		{
+			"id": 66,
+			"name_skin": "skin 66",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack66.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack66.png"
+		},
+		{
+			"id": 67,
+			"name_skin": "skin 67",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack67.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack67.png"
+		},
+		{
+			"id": 68,
+			"name_skin": "skin 68",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack68.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack68.png"
+		},
+		{
+			"id": 69,
+			"name_skin": "skin 69",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack69.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack69.png"
+		},
+		{
+			"id": 70,
+			"name_skin": "skin 70",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack70.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack70.png"
+		},
+		{
+			"id": 71,
+			"name_skin": "skin 71",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack71.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack71.png"
+		},
+		{
+			"id": 72,
+			"name_skin": "skin 72",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack72.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack72.png"
+		},
+		{
+			"id": 73,
+			"name_skin": "skin 73",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack73.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack73.png"
+		},
+		{
+			"id": 74,
+			"name_skin": "skin 74",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack74.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack74.png"
+		},
+		{
+			"id": 75,
+			"name_skin": "skin 75",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack75.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack75.png"
+		},
+		{
+			"id": 76,
+			"name_skin": "skin 76",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack76.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack76.png"
+		},
+		{
+			"id": 77,
+			"name_skin": "skin 77",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack77.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack77.png"
+		},
+		{
+			"id": 78,
+			"name_skin": "skin 78",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack78.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack78.png"
+		},
+		{
+			"id": 79,
+			"name_skin": "skin 79",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack79.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack79.png"
+		},
+		{
+			"id": 80,
+			"name_skin": "skin 80",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack80.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack80.png"
+		},
+		{
+			"id": 81,
+			"name_skin": "skin 81",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack81.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack81.png"
+		},
+		{
+			"id": 82,
+			"name_skin": "skin 82",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack82.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack82.png"
+		},
+		{
+			"id": 83,
+			"name_skin": "skin 83",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack83.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack83.png"
+		},
+		{
+			"id": 84,
+			"name_skin": "skin 84",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack84.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack84.png"
+		},
+		{
+			"id": 85,
+			"name_skin": "skin 85",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack85.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack85.png"
+		},
+		{
+			"id": 86,
+			"name_skin": "skin 86",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack86.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack86.png"
+		},
+		{
+			"id": 87,
+			"name_skin": "skin 87",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack87.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack87.png"
+		},
+		{
+			"id": 88,
+			"name_skin": "skin 88",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack88.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack88.png"
+		},
+		{
+			"id": 89,
+			"name_skin": "skin 89",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack89.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack89.png"
+		},
+		{
+			"id": 90,
+			"name_skin": "skin 90",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack90.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack90.png"
+		},
+		{
+			"id": 91,
+			"name_skin": "skin 91",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack91.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack91.png"
+		},
+		{
+			"id": 92,
+			"name_skin": "skin 92",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack92.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack92.png"
+		},
+		{
+			"id": 93,
+			"name_skin": "skin 93",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack93.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack93.png"
+		},
+		{
+			"id": 94,
+			"name_skin": "skin 94",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack94.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack94.png"
+		},
+		{
+			"id": 95,
+			"name_skin": "skin 95",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack95.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack95.png"
+		},
+		{
+			"id": 96,
+			"name_skin": "skin 96",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack96.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack96.png"
+		},
+		{
+			"id": 97,
+			"name_skin": "skin 97",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack97.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack97.png"
+		},
+		{
+			"id": 98,
+			"name_skin": "skin 98",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack98.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack98.png"
+		},
+		{
+			"id": 99,
+			"name_skin": "skin 99",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack99.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack99.png"
+		},
+		{
+			"id": 100,
+			"name_skin": "skin 100",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack100.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack100.png"
+		},
+		{
+			"id": 101,
+			"name_skin": "skin 101",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack101.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack101.png"
+		},
+		{
+			"id": 102,
+			"name_skin": "skin 102",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack102.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack102.png"
+		},
+		{
+			"id": 103,
+			"name_skin": "skin 103",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack103.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack103.png"
+		},
+		{
+			"id": 104,
+			"name_skin": "skin 104",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack104.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack104.png"
+		},
+		{
+			"id": 105,
+			"name_skin": "skin 105",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack105.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack105.png"
+		},
+		{
+			"id": 106,
+			"name_skin": "skin 106",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack106.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack106.png"
+		},
+		{
+			"id": 107,
+			"name_skin": "skin 107",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack107.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack107.png"
+		},
+		{
+			"id": 108,
+			"name_skin": "skin 108",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack108.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack108.png"
+		},
+		{
+			"id": 109,
+			"name_skin": "skin 109",
+			"skin_url": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/png/skinpack109.png",
+			"view_skin": "https://aweu.net/zuuskin/ihyadevelops/walterwhite/thumb/skinpack109.png"
+		}
+	],
+	"Addons": [
+		{
+			"id": 1,
+			"name_add": "",
+			"add_url": "",
+			"addB_url": "",
+			"addR_url": "",
+			"view_add": "",
+			"des_add": ""
+		}
+	],
+	"Maps": [
+		{
+			"id": 1,
+			"name_map": "",
+			"map_url": "",
+			"view_map": "",
+			"des_map": ""
+		}
+	]
+}
