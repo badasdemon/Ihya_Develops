@@ -1,0 +1,402 @@
+{
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"open_ads_alien": "",
+			"switch_open_ads": "1",
+			"switch_banner_natives_ads": "1",
+			"interval_intertitial": 2,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"More": [
+		{
+			"id": 1,
+			"title": "",
+			"image": "",
+			"link": ""
+		}
+	],
+	"Skin": [
+		{
+			"id": 1,
+			"name_skin": "skin 1",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack1.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack1.png"
+		},
+		{
+			"id": 2,
+			"name_skin": "skin 2",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack2.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack2.png"
+		},
+		{
+			"id": 3,
+			"name_skin": "skin 3",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack3.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack3.png"
+		},
+		{
+			"id": 4,
+			"name_skin": "skin 4",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack4.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack4.png"
+		},
+		{
+			"id": 5,
+			"name_skin": "skin 5",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack5.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack5.png"
+		},
+		{
+			"id": 6,
+			"name_skin": "skin 6",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack6.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack6.png"
+		},
+		{
+			"id": 7,
+			"name_skin": "skin 7",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack7.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack7.png"
+		},
+		{
+			"id": 8,
+			"name_skin": "skin 8",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack8.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack8.png"
+		},
+		{
+			"id": 9,
+			"name_skin": "skin 9",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack9.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack9.png"
+		},
+		{
+			"id": 10,
+			"name_skin": "skin 10",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack10.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack10.png"
+		},
+		{
+			"id": 11,
+			"name_skin": "skin 11",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack11.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack11.png"
+		},
+		{
+			"id": 12,
+			"name_skin": "skin 12",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack12.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack12.png"
+		},
+		{
+			"id": 13,
+			"name_skin": "skin 13",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack13.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack13.png"
+		},
+		{
+			"id": 14,
+			"name_skin": "skin 14",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack14.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack14.png"
+		},
+		{
+			"id": 15,
+			"name_skin": "skin 15",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack15.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack15.png"
+		},
+		{
+			"id": 16,
+			"name_skin": "skin 16",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack16.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack16.png"
+		},
+		{
+			"id": 17,
+			"name_skin": "skin 17",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack17.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack17.png"
+		},
+		{
+			"id": 18,
+			"name_skin": "skin 18",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack18.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack18.png"
+		},
+		{
+			"id": 19,
+			"name_skin": "skin 19",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack19.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack19.png"
+		},
+		{
+			"id": 20,
+			"name_skin": "skin 20",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack20.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack20.png"
+		},
+		{
+			"id": 21,
+			"name_skin": "skin 21",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack21.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack21.png"
+		},
+		{
+			"id": 22,
+			"name_skin": "skin 22",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack22.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack22.png"
+		},
+		{
+			"id": 23,
+			"name_skin": "skin 23",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack23.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack23.png"
+		},
+		{
+			"id": 24,
+			"name_skin": "skin 24",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack24.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack24.png"
+		},
+		{
+			"id": 25,
+			"name_skin": "skin 25",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack25.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack25.png"
+		},
+		{
+			"id": 26,
+			"name_skin": "skin 26",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack26.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack26.png"
+		},
+		{
+			"id": 27,
+			"name_skin": "skin 27",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack27.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack27.png"
+		},
+		{
+			"id": 28,
+			"name_skin": "skin 28",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack28.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack28.png"
+		},
+		{
+			"id": 29,
+			"name_skin": "skin 29",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack29.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack29.png"
+		},
+		{
+			"id": 30,
+			"name_skin": "skin 30",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack30.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack30.png"
+		},
+		{
+			"id": 31,
+			"name_skin": "skin 31",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack31.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack31.png"
+		},
+		{
+			"id": 32,
+			"name_skin": "skin 32",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack32.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack32.png"
+		},
+		{
+			"id": 33,
+			"name_skin": "skin 33",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack33.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack33.png"
+		},
+		{
+			"id": 34,
+			"name_skin": "skin 34",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack34.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack34.png"
+		},
+		{
+			"id": 35,
+			"name_skin": "skin 35",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack35.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack35.png"
+		},
+		{
+			"id": 36,
+			"name_skin": "skin 36",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack36.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack36.png"
+		},
+		{
+			"id": 37,
+			"name_skin": "skin 37",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack37.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack37.png"
+		},
+		{
+			"id": 38,
+			"name_skin": "skin 38",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack38.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack38.png"
+		},
+		{
+			"id": 39,
+			"name_skin": "skin 39",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack39.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack39.png"
+		},
+		{
+			"id": 40,
+			"name_skin": "skin 40",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack40.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack40.png"
+		},
+		{
+			"id": 41,
+			"name_skin": "skin 41",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack41.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack41.png"
+		},
+		{
+			"id": 42,
+			"name_skin": "skin 42",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack42.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack42.png"
+		},
+		{
+			"id": 43,
+			"name_skin": "skin 43",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack43.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack43.png"
+		},
+		{
+			"id": 44,
+			"name_skin": "skin 44",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack44.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack44.png"
+		},
+		{
+			"id": 45,
+			"name_skin": "skin 45",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack45.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack45.png"
+		},
+		{
+			"id": 46,
+			"name_skin": "skin 46",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack46.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack46.png"
+		},
+		{
+			"id": 47,
+			"name_skin": "skin 47",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack47.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack47.png"
+		},
+		{
+			"id": 48,
+			"name_skin": "skin 48",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack48.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack48.png"
+		},
+		{
+			"id": 49,
+			"name_skin": "skin 49",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack49.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack49.png"
+		},
+		{
+			"id": 50,
+			"name_skin": "skin 50",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack50.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack50.png"
+		},
+		{
+			"id": 51,
+			"name_skin": "skin 51",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack51.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack51.png"
+		},
+		{
+			"id": 52,
+			"name_skin": "skin 52",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack52.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack52.png"
+		},
+		{
+			"id": 53,
+			"name_skin": "skin 53",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack53.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack53.png"
+		},
+		{
+			"id": 54,
+			"name_skin": "skin 54",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack54.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack54.png"
+		},
+		{
+			"id": 55,
+			"name_skin": "skin 55",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack55.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack55.png"
+		},
+		{
+			"id": 56,
+			"name_skin": "skin 56",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack56.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack56.png"
+		},
+		{
+			"id": 57,
+			"name_skin": "skin 57",
+			"skin_url": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/png/skinpack57.png",
+			"view_skin": "https://sveg.xyz/zuupelskin/ihyadevelops/kawai/thumb/skinpack57.png"
+		}
+	],
+	"Addons": [
+		{
+			"id": 1,
+			"name_add": "",
+			"add_url": "",
+			"addB_url": "",
+			"addR_url": "",
+			"view_add": "",
+			"des_add": ""
+		}
+	],
+	"Maps": [
+		{
+			"id": 1,
+			"name_map": "",
+			"map_url": "",
+			"view_map": "",
+			"des_map": ""
+		}
+	]
+}
